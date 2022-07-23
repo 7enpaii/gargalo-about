@@ -1,0 +1,8 @@
+{
+  "errors": [
+    "[!] The errors we give when the status code is 400 Bad request",
+    "This password is not valid",
+    "device_name field must be provided",
+    "Password is not more than 7 chars"
+  ]
+}
